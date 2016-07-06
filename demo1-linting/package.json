@@ -1,0 +1,19 @@
+{
+  "name": "gulp_intro",
+  "version": "0.1.0",
+  "description": "Gulp demo scripts for the \"Take a Gulp on Task Automation\" talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Lord",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "jshint-stylish": "^2.2.0"
+  },
+  "dependencies": {
+
+  }
+}
